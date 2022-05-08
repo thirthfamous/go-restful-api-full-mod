@@ -22,10 +22,10 @@ Simple Go & MySQL Category CRUD with Proteced with API-Key. Coded with clean arc
 2. Run the commands 
 ```sh
 // clone the project
-git clone https://github.com/thirthfamous/go-restful-api-clean-architecture/
+git clone https://github.com/thirthfamous/go-restful-api-full-mod.git
 
 // go to the project directory
-cd go-restful-api-clean-architecture
+cd go-restful-api-full-mod
 
 // install the dependencies
 go get
